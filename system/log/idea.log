@@ -1,0 +1,209 @@
+2019-02-15 17:46:48,048 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2019-02-15 17:46:48,048 [      0]   INFO -        #com.intellij.idea.Main - IDE: Android Studio (build #AI-135.1740770, 18 Feb 2015 00:00) 
+2019-02-15 17:46:48,048 [      0]   INFO -        #com.intellij.idea.Main - OS: Windows 7 (6.1, amd64) 
+2019-02-15 17:46:48,048 [      0]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_40-b25 (Oracle Corporation) 
+2019-02-15 17:46:48,048 [      0]   INFO -        #com.intellij.idea.Main - JVM: 25.40-b25 (Java HotSpot(TM) 64-Bit Server VM) 
+2019-02-15 17:46:48,111 [     63]   INFO -        #com.intellij.idea.Main - JVM Args: -Xms128m -Xmx750m -XX:MaxPermSize=350m -XX:ReservedCodeCacheSize=96m -ea -Dsun.io.useCanonCaches=false -Djava.net.preferIPv4Stack=true -Djna.nosys=true -Djna.boot.library.path= -Djna.debug_load=true -Djna.debug_load.jna=true -Djsse.enableSNIExtension=false -XX:+UseCodeCacheFlushing -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -Didea.platform.prefix=AndroidStudio -Didea.paths.selector=AndroidStudio -Djb.vmOptions=C:\Program Files\Android\Android Studio\bin\studio64.exe.vmoptions -Xbootclasspath/a:C:\Program Files\Android\Android Studio\lib\boot.jar -Didea.jre.check=false 
+2019-02-15 17:46:48,454 [    406]   INFO -        #com.intellij.idea.Main - JNA library loaded (64-bit) in 343 ms 
+2019-02-15 17:46:48,485 [    437]   INFO -        #com.intellij.idea.Main - Snappy library loaded (1.0.5) in 31 ms 
+2019-02-15 17:46:48,501 [    453]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational 
+2019-02-15 17:46:48,516 [    468]   INFO -        #com.intellij.idea.Main - Using "FocusKiller" library to prevent focus stealing. 
+2019-02-15 17:46:48,516 [    468]   INFO -        #com.intellij.idea.Main - 2019-02-15 17:46:25 [Patch] Original patch does not exist: C:\Users\MaiMoOnA\AppData\Local\Temp\jetbrains.patch.jar.androidstudio
+ 
+2019-02-15 17:46:53,025 [   4977]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor intellilang-python-support.xml 
+2019-02-15 17:46:53,883 [   5835]   INFO - llij.ide.plugins.PluginManager - 21 plugins initialized in 1467 ms 
+2019-02-15 17:46:53,883 [   5835]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: Android Support (10.1.1.0), CVS Integration (11), Commander (1.0.0), Copyright (8.1), Git Integration (8.1), GitHub, Google Cloud Tools For Android Studio (0.2.8), Google Login (1.0), Gradle, Groovy (9.0), I18n for Java, IDEA CORE, IntelliLang (8.0), JUnit (1.0), Maven Integration, Properties Support, Subversion Integration (1.1), Task Management (1.0), Terminal (0.1), TestNG-J (8.0), hg4idea (10.0) 
+2019-02-15 17:46:55,739 [   7691]   INFO - ellij.vfs.persistent.FSRecords - Marking VFS as corrupted 
+2019-02-15 17:46:55,739 [   7691]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=200; buffer=10; max=739246080 
+2019-02-15 17:46:55,864 [   7816]   INFO - api.vfs.impl.local.FileWatcher - Starting file watcher: C:\Program Files\Android\Android Studio\bin\fsnotifier.exe 
+2019-02-15 17:46:55,911 [   7863]   INFO - api.vfs.impl.local.FileWatcher - Native file watcher is operational. 
+2019-02-15 17:46:56,112 [   8064]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/other.xml file is null 
+2019-02-15 17:46:56,143 [   8095]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/project.default.xml file is null 
+2019-02-15 17:46:56,314 [   8266]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/filetypes.xml file is null 
+2019-02-15 17:46:56,626 [   8578]   INFO - .history.utils.LocalHistoryLog - local history version mismatch (was: 0, expected: 5), rebuilding... 
+2019-02-15 17:46:56,626 [   8578]   INFO - .history.utils.LocalHistoryLog - FS has been rebuild, rebuilding local history... 
+2019-02-15 17:46:56,704 [   8656]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/path.macros.xml file is null 
+2019-02-15 17:46:56,704 [   8656]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/ui.lnf.xml file is null 
+2019-02-15 17:46:56,720 [   8672]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/options.xml file is null 
+2019-02-15 17:46:56,938 [   8890]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/notifications.xml file is null 
+2019-02-15 17:46:56,954 [   8906]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/usage.statistics.xml file is null 
+2019-02-15 17:46:56,954 [   8906]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/statistics.application.usages.xml file is null 
+2019-02-15 17:46:57,562 [   9514]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/keymap.xml file is null 
+2019-02-15 17:46:57,968 [   9920]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/window.manager.xml file is null 
+2019-02-15 17:46:57,999 [   9951]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/abbreviations.xml file is null 
+2019-02-15 17:46:58,046 [   9998]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/ide.general.xml file is null 
+2019-02-15 17:46:59,653 [  11605]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/stubIndex.xml file is null 
+2019-02-15 17:46:59,700 [  11652]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/editor.xml file is null 
+2019-02-15 17:46:59,715 [  11667]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/macros.xml file is null 
+2019-02-15 17:46:59,715 [  11667]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/quicklists.xml file is null 
+2019-02-15 17:47:00,043 [  11995]   INFO - tellij.xml.Html5SchemaProvider - HTML5_SCHEMA_LOCATION = C:/Program Files/Android/Android Studio/lib/idea.jar!/resources/html5-schema/html5.rnc 
+2019-02-15 17:47:00,043 [  11995]   INFO - tellij.xml.Html5SchemaProvider - XHTML5_SCHEMA_LOCATION = C:/Program Files/Android/Android Studio/lib/idea.jar!/resources/html5-schema/xhtml5.rnc 
+2019-02-15 17:47:00,043 [  11995]   INFO - tellij.xml.Html5SchemaProvider - CHARS_DTD_LOCATION = C:/Program Files/Android/Android Studio/lib/idea.jar!/resources/html5-schema/html5chars.ent 
+2019-02-15 17:47:01,291 [  13243]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/colors.scheme.xml file is null 
+2019-02-15 17:47:01,322 [  13274]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/editor.codeinsight.xml file is null 
+2019-02-15 17:47:01,806 [  13758]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/gradle.experimental.xml file is null 
+2019-02-15 17:47:01,852 [  13804]   INFO -                  TestNG Runner - Create TestNG Template Configuration 
+2019-02-15 17:47:02,040 [  13992]   INFO - ellij.project.impl.ProjectImpl - 21 project components initialized in 1966 ms 
+2019-02-15 17:47:02,040 [  13992]   INFO - le.impl.ModuleManagerComponent - 0 module(s) loaded in 0 ms 
+2019-02-15 17:47:02,336 [  14288]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/jdk.table.xml file is null 
+2019-02-15 17:47:02,476 [  14428]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/code.style.schemes.xml file is null 
+2019-02-15 17:47:02,664 [  14616]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/debugger.renderers.xml file is null 
+2019-02-15 17:47:03,178 [  15130]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/studio.build.statistics.xml file is null 
+2019-02-15 17:47:03,178 [  15130]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/androidStudioFirstRun.xml file is null 
+2019-02-15 17:47:03,178 [  15130]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/terminal.xml file is null 
+2019-02-15 17:47:03,178 [  15130]   INFO - pl.stores.ApplicationStoreImpl - 85 application components initialized in 9139 ms 
+2019-02-15 17:47:03,225 [  15177]   INFO - .intellij.idea.IdeaApplication - App initialization took 37008 ms 
+2019-02-15 17:47:03,896 [  15848]   WARN - ateSettings.impl.UpdateChecker - Connection failed. Please check your network connection and try again. 
+2019-02-15 17:47:08,014 [  19966]   INFO - droidStudioSpecificInitializer - Found Studio home directory at: 'C:\Program Files\Android\Android Studio' 
+2019-02-15 17:47:08,014 [  19966]   INFO - droidStudioSpecificInitializer - Looking for Android SDK at 'C:/Program Files/Android/Android Studio/sdk' 
+2019-02-15 17:47:08,014 [  19966]   INFO - droidStudioSpecificInitializer - Looking for Android SDK at 'C:/Program Files/Android/sdk' 
+2019-02-15 17:47:08,014 [  19966]   INFO - droidStudioSpecificInitializer - Unable to locate SDK within the Android studio installation. 
+2019-02-15 17:47:08,014 [  19966]   INFO - droidStudioSpecificInitializer - Checking if ANDROID_HOME is set: 'ANDROID_HOME' is 'null' 
+2019-02-15 17:47:08,014 [  19966]   INFO - droidStudioSpecificInitializer - Unable to locate last SDK used by Android tools 
+2019-02-15 17:47:21,603 [  33555]  ERROR - tRunWizard$SetupProgressStep$1 - The following SDK component was not installed: build-tools-21.1.1 
+com.android.tools.idea.welcome.WizardException: The following SDK component was not installed: build-tools-21.1.1
+	at com.android.tools.idea.welcome.InstallOperation.promptToRetry(InstallOperation.java:109)
+	at com.android.tools.idea.welcome.InstallComponentsOperation.perform(InstallComponentsOperation.java:80)
+	at com.android.tools.idea.welcome.InstallComponentsOperation.perform(InstallComponentsOperation.java:38)
+	at com.android.tools.idea.welcome.InstallOperation$1.compute(InstallOperation.java:80)
+	at com.android.tools.idea.welcome.InstallContext$Wrapper.run(InstallContext.java:127)
+	at com.intellij.openapi.progress.ProgressManager.executeProcessUnderProgress(ProgressManager.java:209)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:212)
+	at com.android.tools.idea.welcome.ProgressStep.run(ProgressStep.java:167)
+	at com.android.tools.idea.welcome.InstallContext.run(InstallContext.java:77)
+	at com.android.tools.idea.welcome.InstallOperation.execute(InstallOperation.java:72)
+	at com.android.tools.idea.welcome.InstallOperation$OperationChain.perform(InstallOperation.java:151)
+	at com.android.tools.idea.welcome.InstallOperation.execute(InstallOperation.java:68)
+	at com.android.tools.idea.welcome.InstallOperation$OperationChain.perform(InstallOperation.java:149)
+	at com.android.tools.idea.welcome.InstallOperation.execute(InstallOperation.java:68)
+	at com.android.tools.idea.welcome.InstallOperation$OperationChain.perform(InstallOperation.java:149)
+	at com.android.tools.idea.welcome.InstallOperation.execute(InstallOperation.java:68)
+	at com.android.tools.idea.welcome.InstallComponentsPath.runLongOperation(InstallComponentsPath.java:301)
+	at com.android.tools.idea.welcome.FirstRunWizard.doLongRunningOperation(FirstRunWizard.java:126)
+	at com.android.tools.idea.welcome.FirstRunWizard.access$000(FirstRunWizard.java:41)
+	at com.android.tools.idea.welcome.FirstRunWizard$SetupProgressStep$1.run(FirstRunWizard.java:160)
+	at com.android.tools.idea.welcome.FirstRunWizardHost$LongRunningOperationWrapper.run(FirstRunWizardHost.java:432)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl$TaskRunnable.run(ProgressManagerImpl.java:471)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl$2.run(ProgressManagerImpl.java:178)
+	at com.intellij.openapi.progress.ProgressManager.executeProcessUnderProgress(ProgressManager.java:209)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:212)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.runProcess(ProgressManagerImpl.java:171)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl$8.run(ProgressManagerImpl.java:380)
+	at com.intellij.openapi.application.impl.ApplicationImpl$8.run(ApplicationImpl.java:419)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+	at com.intellij.openapi.application.impl.ApplicationImpl$1$1.run(ApplicationImpl.java:149)
+2019-02-15 17:47:21,666 [  33618]  ERROR - tRunWizard$SetupProgressStep$1 - Android Studio 1.1.0  Build #AI-135.1740770 
+2019-02-15 17:47:21,666 [  33618]  ERROR - tRunWizard$SetupProgressStep$1 - JDK: 1.8.0_40 
+2019-02-15 17:47:21,666 [  33618]  ERROR - tRunWizard$SetupProgressStep$1 - VM: Java HotSpot(TM) 64-Bit Server VM 
+2019-02-15 17:47:21,666 [  33618]  ERROR - tRunWizard$SetupProgressStep$1 - Vendor: Oracle Corporation 
+2019-02-15 17:47:21,666 [  33618]  ERROR - tRunWizard$SetupProgressStep$1 - OS: Windows 7 
+2019-02-15 17:47:21,666 [  33618]  ERROR - tRunWizard$SetupProgressStep$1 - Last Action:  
+2019-02-15 17:47:26,190 [  38142]   INFO - dea.ddms.adb.AdbService$Ddmlib - DDMLib terminated 
+2019-02-15 17:47:26,190 [  38142]   INFO - il.indexing.FileBasedIndexImpl - START INDEX SHUTDOWN 
+2019-02-15 17:47:26,205 [  38157]   INFO - il.indexing.FileBasedIndexImpl - END INDEX SHUTDOWN 
+2019-02-15 17:47:26,205 [  38157]   INFO - stubs.SerializationManagerImpl - START StubSerializationManager SHUTDOWN 
+2019-02-15 17:47:26,205 [  38157]   INFO - stubs.SerializationManagerImpl - END StubSerializationManager SHUTDOWN 
+2019-02-15 17:47:26,205 [  38157]   INFO - .history.utils.LocalHistoryLog - Purging local history... 
+2019-02-15 17:47:26,205 [  38157]   INFO - .history.utils.LocalHistoryLog - Local history storage successfully closed. 
+2019-02-15 17:47:26,299 [  38251]   WARN - api.vfs.impl.local.FileWatcher - Watcher terminated with exit code 0 
+2019-02-15 17:47:26,299 [  38251]   INFO - newvfs.persistent.PersistentFS - VFS dispose started 
+2019-02-15 17:47:26,299 [  38251]   INFO - newvfs.persistent.PersistentFS - VFS dispose completed 
+2019-02-15 17:47:26,299 [  38251]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2019-02-15 17:49:09,075 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2019-02-15 17:49:09,137 [     62]   INFO -        #com.intellij.idea.Main - IDE: Android Studio (build #AI-135.1740770, 18 Feb 2015 00:00) 
+2019-02-15 17:49:09,137 [     62]   INFO -        #com.intellij.idea.Main - OS: Windows 7 (6.1, amd64) 
+2019-02-15 17:49:09,137 [     62]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_40-b25 (Oracle Corporation) 
+2019-02-15 17:49:09,137 [     62]   INFO -        #com.intellij.idea.Main - JVM: 25.40-b25 (Java HotSpot(TM) 64-Bit Server VM) 
+2019-02-15 17:49:09,137 [     62]   INFO -        #com.intellij.idea.Main - JVM Args: -Xms128m -Xmx750m -XX:MaxPermSize=350m -XX:ReservedCodeCacheSize=96m -ea -Dsun.io.useCanonCaches=false -Djava.net.preferIPv4Stack=true -Djna.nosys=true -Djna.boot.library.path= -Djna.debug_load=true -Djna.debug_load.jna=true -Djsse.enableSNIExtension=false -XX:+UseCodeCacheFlushing -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -Didea.platform.prefix=AndroidStudio -Didea.paths.selector=AndroidStudio -Djb.vmOptions=C:\Program Files\Android\Android Studio\bin\studio64.exe.vmoptions -Xbootclasspath/a:C:\Program Files\Android\Android Studio\lib\boot.jar -Didea.jre.check=false 
+2019-02-15 17:49:09,293 [    218]   INFO -        #com.intellij.idea.Main - JNA library loaded (64-bit) in 156 ms 
+2019-02-15 17:49:09,434 [    359]   INFO -        #com.intellij.idea.Main - Snappy library loaded (1.0.5) in 141 ms 
+2019-02-15 17:49:09,449 [    374]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational 
+2019-02-15 17:49:09,449 [    374]   INFO -        #com.intellij.idea.Main - Using "FocusKiller" library to prevent focus stealing. 
+2019-02-15 17:49:09,449 [    374]   INFO -        #com.intellij.idea.Main - 2019-02-15 17:49:07 [Patch] Original patch does not exist: C:\Users\MaiMoOnA\AppData\Local\Temp\jetbrains.patch.jar.androidstudio
+ 
+2019-02-15 17:49:10,510 [   1435]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor intellilang-python-support.xml 
+2019-02-15 17:49:11,181 [   2106]   INFO - llij.ide.plugins.PluginManager - 21 plugins initialized in 1139 ms 
+2019-02-15 17:49:11,181 [   2106]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: Android Support (10.1.1.0), CVS Integration (11), Commander (1.0.0), Copyright (8.1), Git Integration (8.1), GitHub, Google Cloud Tools For Android Studio (0.2.8), Google Login (1.0), Gradle, Groovy (9.0), I18n for Java, IDEA CORE, IntelliLang (8.0), JUnit (1.0), Maven Integration, Properties Support, Subversion Integration (1.1), Task Management (1.0), Terminal (0.1), TestNG-J (8.0), hg4idea (10.0) 
+2019-02-15 17:49:11,899 [   2824]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=200; buffer=10; max=739246080 
+2019-02-15 17:49:11,930 [   2855]   INFO - api.vfs.impl.local.FileWatcher - Starting file watcher: C:\Program Files\Android\Android Studio\bin\fsnotifier.exe 
+2019-02-15 17:49:11,945 [   2870]   INFO - api.vfs.impl.local.FileWatcher - Native file watcher is operational. 
+2019-02-15 17:49:12,364 [   3289]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/notifications.xml file is null 
+2019-02-15 17:49:12,567 [   3492]   INFO - lij.diagnostic.DebugLogManager - Set DEBUG for the following categories: [] 
+2019-02-15 17:49:12,832 [   3757]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/window.manager.xml file is null 
+2019-02-15 17:49:13,238 [   4163]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/macros.xml file is null 
+2019-02-15 17:49:13,253 [   4178]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/quicklists.xml file is null 
+2019-02-15 17:49:13,425 [   4350]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/jdk.table.xml file is null 
+2019-02-15 17:49:13,940 [   4865]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/gradle.experimental.xml file is null 
+2019-02-15 17:49:13,955 [   4880]   INFO -                  TestNG Runner - Create TestNG Template Configuration 
+2019-02-15 17:49:13,971 [   4896]   INFO -                  TestNG Runner - Create TestNG Template Configuration 
+2019-02-15 17:49:14,033 [   4958]   INFO - ellij.project.impl.ProjectImpl - 21 project components initialized in 577 ms 
+2019-02-15 17:49:14,049 [   4974]   INFO - le.impl.ModuleManagerComponent - 0 module(s) loaded in 0 ms 
+2019-02-15 17:49:14,439 [   5364]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/studio.build.statistics.xml file is null 
+2019-02-15 17:49:14,439 [   5364]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/androidStudioFirstRun.xml file is null 
+2019-02-15 17:49:14,439 [   5364]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/terminal.xml file is null 
+2019-02-15 17:49:14,439 [   5364]   INFO - pl.stores.ApplicationStoreImpl - 85 application components initialized in 3196 ms 
+2019-02-15 17:49:14,454 [   5379]   INFO - .intellij.idea.IdeaApplication - App initialization took 6272 ms 
+2019-02-15 17:49:14,829 [   5754]   WARN - ateSettings.impl.UpdateChecker - Connection failed. Please check your network connection and try again. 
+2019-02-15 17:49:36,762 [  27687]   INFO - droidStudioSpecificInitializer - Found Studio home directory at: 'C:\Program Files\Android\Android Studio' 
+2019-02-15 17:49:36,762 [  27687]   INFO - droidStudioSpecificInitializer - Looking for Android SDK at 'C:/Program Files/Android/Android Studio/sdk' 
+2019-02-15 17:49:36,778 [  27703]   INFO - droidStudioSpecificInitializer - Looking for Android SDK at 'C:/Program Files/Android/sdk' 
+2019-02-15 17:49:36,778 [  27703]   INFO - droidStudioSpecificInitializer - Unable to locate SDK within the Android studio installation. 
+2019-02-15 17:49:36,778 [  27703]   INFO - droidStudioSpecificInitializer - Checking if ANDROID_HOME is set: 'ANDROID_HOME' is 'null' 
+2019-02-15 17:49:36,778 [  27703]   INFO - droidStudioSpecificInitializer - Unable to locate last SDK used by Android tools 
+2019-02-15 17:52:21,150 [ 192075]  ERROR - tRunWizard$SetupProgressStep$1 - The following SDK component was not installed: build-tools-21.1.1 
+com.android.tools.idea.welcome.WizardException: The following SDK component was not installed: build-tools-21.1.1
+	at com.android.tools.idea.welcome.InstallOperation.promptToRetry(InstallOperation.java:109)
+	at com.android.tools.idea.welcome.InstallComponentsOperation.perform(InstallComponentsOperation.java:80)
+	at com.android.tools.idea.welcome.InstallComponentsOperation.perform(InstallComponentsOperation.java:38)
+	at com.android.tools.idea.welcome.InstallOperation$1.compute(InstallOperation.java:80)
+	at com.android.tools.idea.welcome.InstallContext$Wrapper.run(InstallContext.java:127)
+	at com.intellij.openapi.progress.ProgressManager.executeProcessUnderProgress(ProgressManager.java:209)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:212)
+	at com.android.tools.idea.welcome.ProgressStep.run(ProgressStep.java:167)
+	at com.android.tools.idea.welcome.InstallContext.run(InstallContext.java:77)
+	at com.android.tools.idea.welcome.InstallOperation.execute(InstallOperation.java:72)
+	at com.android.tools.idea.welcome.InstallOperation$OperationChain.perform(InstallOperation.java:151)
+	at com.android.tools.idea.welcome.InstallOperation.execute(InstallOperation.java:68)
+	at com.android.tools.idea.welcome.InstallOperation$OperationChain.perform(InstallOperation.java:149)
+	at com.android.tools.idea.welcome.InstallOperation.execute(InstallOperation.java:68)
+	at com.android.tools.idea.welcome.InstallOperation$OperationChain.perform(InstallOperation.java:149)
+	at com.android.tools.idea.welcome.InstallOperation.execute(InstallOperation.java:68)
+	at com.android.tools.idea.welcome.InstallComponentsPath.runLongOperation(InstallComponentsPath.java:301)
+	at com.android.tools.idea.welcome.FirstRunWizard.doLongRunningOperation(FirstRunWizard.java:126)
+	at com.android.tools.idea.welcome.FirstRunWizard.access$000(FirstRunWizard.java:41)
+	at com.android.tools.idea.welcome.FirstRunWizard$SetupProgressStep$1.run(FirstRunWizard.java:160)
+	at com.android.tools.idea.welcome.FirstRunWizardHost$LongRunningOperationWrapper.run(FirstRunWizardHost.java:432)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl$TaskRunnable.run(ProgressManagerImpl.java:471)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl$2.run(ProgressManagerImpl.java:178)
+	at com.intellij.openapi.progress.ProgressManager.executeProcessUnderProgress(ProgressManager.java:209)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:212)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.runProcess(ProgressManagerImpl.java:171)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl$8.run(ProgressManagerImpl.java:380)
+	at com.intellij.openapi.application.impl.ApplicationImpl$8.run(ApplicationImpl.java:419)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+	at com.intellij.openapi.application.impl.ApplicationImpl$1$1.run(ApplicationImpl.java:149)
+2019-02-15 17:52:21,181 [ 192106]  ERROR - tRunWizard$SetupProgressStep$1 - Android Studio 1.1.0  Build #AI-135.1740770 
+2019-02-15 17:52:21,181 [ 192106]  ERROR - tRunWizard$SetupProgressStep$1 - JDK: 1.8.0_40 
+2019-02-15 17:52:21,181 [ 192106]  ERROR - tRunWizard$SetupProgressStep$1 - VM: Java HotSpot(TM) 64-Bit Server VM 
+2019-02-15 17:52:21,181 [ 192106]  ERROR - tRunWizard$SetupProgressStep$1 - Vendor: Oracle Corporation 
+2019-02-15 17:52:21,181 [ 192106]  ERROR - tRunWizard$SetupProgressStep$1 - OS: Windows 7 
+2019-02-15 17:52:21,181 [ 192106]  ERROR - tRunWizard$SetupProgressStep$1 - Last Action:  
+2019-02-15 17:52:26,532 [ 197457]   INFO - dea.ddms.adb.AdbService$Ddmlib - DDMLib terminated 
+2019-02-15 17:52:26,548 [ 197473]   INFO - il.indexing.FileBasedIndexImpl - START INDEX SHUTDOWN 
+2019-02-15 17:52:26,594 [ 197519]   INFO - il.indexing.FileBasedIndexImpl - END INDEX SHUTDOWN 
+2019-02-15 17:52:26,594 [ 197519]   INFO - stubs.SerializationManagerImpl - START StubSerializationManager SHUTDOWN 
+2019-02-15 17:52:26,594 [ 197519]   INFO - stubs.SerializationManagerImpl - END StubSerializationManager SHUTDOWN 
+2019-02-15 17:52:26,594 [ 197519]   INFO - .history.utils.LocalHistoryLog - Purging local history... 
+2019-02-15 17:52:26,594 [ 197519]   INFO - .history.utils.LocalHistoryLog - Local history storage successfully closed. 
+2019-02-15 17:52:26,782 [ 197707]   WARN - api.vfs.impl.local.FileWatcher - Watcher terminated with exit code 0 
+2019-02-15 17:52:26,782 [ 197707]   INFO - newvfs.persistent.PersistentFS - VFS dispose started 
+2019-02-15 17:52:26,797 [ 197722]   INFO - newvfs.persistent.PersistentFS - VFS dispose completed 
+2019-02-15 17:52:26,797 [ 197722]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
